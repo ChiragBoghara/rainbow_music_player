@@ -2,8 +2,8 @@
 
 A new Flutter Music Player.
 
-!(![2021-03-20-10-36-24](https://user-images.githubusercontent.com/63946430/115958287-7a0cd880-a524-11eb-8f10-bd74d6318b3f.gif)
-?)
+![2021-03-20-10-36-24](https://user-images.githubusercontent.com/63946430/115958287-7a0cd880-a524-11eb-8f10-bd74d6318b3f.gif)
+
 
 ## Getting Started
 
